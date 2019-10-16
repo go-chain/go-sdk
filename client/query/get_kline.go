@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/binance-chain/go-sdk/common"
-	"github.com/binance-chain/go-sdk/common/types"
+	"github.com/go-chain/go-sdk/common"
+	"github.com/go-chain/go-sdk/common/types"
 )
 
 // GetKlines returns transaction details

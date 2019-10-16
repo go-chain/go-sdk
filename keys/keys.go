@@ -14,12 +14,12 @@ import (
 
 	"github.com/tendermint/tendermint/crypto/secp256k1"
 
-	"github.com/binance-chain/go-sdk/common"
-	"github.com/binance-chain/go-sdk/common/ledger"
-	"github.com/binance-chain/go-sdk/common/types"
-	ctypes "github.com/binance-chain/go-sdk/common/types"
-	"github.com/binance-chain/go-sdk/common/uuid"
-	"github.com/binance-chain/go-sdk/types/tx"
+	"github.com/go-chain/go-sdk/common"
+	"github.com/go-chain/go-sdk/common/ledger"
+	"github.com/go-chain/go-sdk/common/types"
+	ctypes "github.com/go-chain/go-sdk/common/types"
+	"github.com/go-chain/go-sdk/common/uuid"
+	"github.com/go-chain/go-sdk/types/tx"
 	"github.com/tendermint/tendermint/crypto"
 )
 

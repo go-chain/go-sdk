@@ -9,8 +9,8 @@ import (
 
 	"gopkg.in/resty.v1"
 
-	"github.com/binance-chain/go-sdk/types"
-	"github.com/binance-chain/go-sdk/types/tx"
+	"github.com/go-chain/go-sdk/types"
+	"github.com/go-chain/go-sdk/types/tx"
 	"github.com/gorilla/websocket"
 )
 

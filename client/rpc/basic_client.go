@@ -12,8 +12,8 @@ import (
 	"github.com/tendermint/tendermint/rpc/lib/client"
 	"github.com/tendermint/tendermint/types"
 
-	ntypes "github.com/binance-chain/go-sdk/common/types"
-	"github.com/binance-chain/go-sdk/types/tx"
+	ntypes "github.com/go-chain/go-sdk/common/types"
+	"github.com/go-chain/go-sdk/types/tx"
 )
 
 const defaultTimeout = 5 * time.Second

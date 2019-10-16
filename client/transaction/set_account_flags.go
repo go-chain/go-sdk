@@ -2,9 +2,9 @@ package transaction
 
 import (
 	"fmt"
-	"github.com/binance-chain/go-sdk/common/types"
-	"github.com/binance-chain/go-sdk/types/msg"
-	"github.com/binance-chain/go-sdk/types/tx"
+	"github.com/go-chain/go-sdk/common/types"
+	"github.com/go-chain/go-sdk/types/msg"
+	"github.com/go-chain/go-sdk/types/tx"
 )
 
 type SetAccountFlagsResult struct {

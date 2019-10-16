@@ -1,7 +1,7 @@
 package tx
 
 import (
-	"github.com/binance-chain/go-sdk/types/msg"
+	"github.com/go-chain/go-sdk/types/msg"
 	"github.com/tendermint/tendermint/abci/types"
 	"github.com/tendermint/tendermint/libs/common"
 )

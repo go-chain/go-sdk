@@ -4,12 +4,12 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/binance-chain/go-sdk/client/basic"
-	"github.com/binance-chain/go-sdk/client/query"
-	"github.com/binance-chain/go-sdk/common/types"
-	"github.com/binance-chain/go-sdk/keys"
-	"github.com/binance-chain/go-sdk/types/msg"
-	"github.com/binance-chain/go-sdk/types/tx"
+	"github.com/go-chain/go-sdk/client/basic"
+	"github.com/go-chain/go-sdk/client/query"
+	"github.com/go-chain/go-sdk/common/types"
+	"github.com/go-chain/go-sdk/keys"
+	"github.com/go-chain/go-sdk/types/msg"
+	"github.com/go-chain/go-sdk/types/tx"
 )
 
 type TransactionClient interface {
